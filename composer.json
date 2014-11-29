@@ -6,8 +6,8 @@
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "support": {
-        "issues": "https://github.com/mongosoft/yii2-mongodate-behavior/issues?state=open",
-        "source": "https://github.com/mongosoft/yii2-mongodate-behavior"
+        "issues": "https://github.com/mongosoft/yii2-behaviors/issues?state=open",
+        "source": "https://github.com/mongosoft/yii2-behaviors"
     },
     "authors": [
         {
@@ -15,6 +15,7 @@
             "email": "dev.mohorev@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "mongosoft/yii2-mongodate-behavior": "*",
         "mongosoft/yii2-upload-behavior": "*"
