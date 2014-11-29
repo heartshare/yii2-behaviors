@@ -9,6 +9,8 @@ namespace mongosoft\behaviors;
  * To use UploadBehavior, insert the following code to your ActiveRecord class:
  *
  * ```php
+ * use mongosoft\behaviors\UploadBehavior;
+ *
  * function behaviors()
  * {
  *     return [
