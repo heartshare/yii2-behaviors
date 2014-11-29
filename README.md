@@ -28,4 +28,4 @@ or add
 "mongosoft/yii2-behaviors": "*"
 ```
 
-to the `require` section of your composer.json.
+to the `require` section of your `composer.json` file.
